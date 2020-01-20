@@ -10,3 +10,5 @@ The primary topics in this part of the specialization are: asymptotic ("Big-oh")
 - [Assignment 01: Integer Multiplication ](https://github.com/LucasBoTang/Coursera_Algorithms/tree/master/01Divide_and_Conquer_Sorting_and_Searching_and_Randomized_Algorithms/Assignment01)
 
 - [Assignment 02: Count Inversions](https://github.com/LucasBoTang/Coursera_Algorithms/tree/master/01Divide_and_Conquer_Sorting_and_Searching_and_Randomized_Algorithms/Assignment02)
+
+- [Assignment 03: Quick Sort](https://github.com/LucasBoTang/Coursera_Algorithms/tree/master/01Divide_and_Conquer_Sorting_and_Searching_and_Randomized_Algorithms/Assignment03)
