@@ -14,3 +14,6 @@ The primary topics in this part of the specialization are: asymptotic ("Big-oh")
 - [Assignment 03: Quick Sort](https://github.com/LucasBoTang/Coursera_Algorithms/tree/master/01Divide_and_Conquer_Sorting_and_Searching_and_Randomized_Algorithms/Assignment03)
 
 - [Assignment 04: Karger Min Cut](https://github.com/LucasBoTang/Coursera_Algorithms/tree/master/01Divide_and_Conquer_Sorting_and_Searching_and_Randomized_Algorithms/Assignment04)
+
+## Graph Search, Shortest Paths, and Data Structures
+The primary topics in this part of the specialization are: data structures (heaps, balanced search trees, hash tables, bloom filters), graph primitives (applications of breadth-first and depth-first search, connectivity, shortest paths), and their applications (ranging from deduplication to social network analysis).
